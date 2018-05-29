@@ -1,0 +1,19 @@
+7
+arrival John 40
+arrival Mary 63
+arrival Bob 77
+arrival Chris 20
+arrival Shawn 34
+arrival GOB 77
+arrival Dingus 55
+arrival ReRe 1
+arrival Blobby 4
+serve
+serve
+serve
+arrival Howard 10
+preview
+arrival Steve 11
+serve
+preview
+arrival Pat 82
